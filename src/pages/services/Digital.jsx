@@ -13,7 +13,7 @@ const Digital = () => {
 
         <ul className="mt-4">
           <div className="flex items-center justify-center h-screen">
-            <img src="/public/digital.png" alt="Centered image" className="w-[80%] h-auto rounded-2xl" />
+            <img src="/digital.png" alt="Centered image" className="w-[80%] h-auto rounded-2xl" />
           </div>
 
           <li>

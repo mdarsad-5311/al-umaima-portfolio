@@ -13,7 +13,7 @@ const Web = () => {
 
         <ul className="mt-4">
           <div className="flex items-center justify-center h-screen">
-            <img src="/public/facebook banner.png" alt="Centered image" className="w-[80%] h-auto rounded-2xl" />
+            <img src="/facebook banner.png" alt="Centered image" className="w-[80%] h-auto rounded-2xl" />
           </div>
 
           <li>
