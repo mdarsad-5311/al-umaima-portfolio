@@ -26,7 +26,7 @@ const Header = () => {
 
         {/* Logo */}
         <div className="flex items-center ">
-         <a href="/"> <img src="/public/logo.png" alt="logo" 
+         <a href="/"> <img src="/logo.png" alt="logo" 
           style={neumorphic}
           className="w-[150px] h-[110px] rounded-xl" /></a>
   
@@ -35,12 +35,12 @@ const Header = () => {
         {/* Menu */}
         <ul className="flex gap-7 list-none relative">
 
-          <label
+          {/* <label
             htmlFor="menuToggle"
             className="lg:hidden absolute top-6 right-6 text-2xl cursor-pointer"
           >
             ✖
-          </label>
+          </label> */}
 
           <li>
             <a
